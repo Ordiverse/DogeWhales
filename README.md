@@ -1,4 +1,4 @@
-### Hi there 👋
+### Doge Whale On Doge Block chain 👋
 
 <!--
 **Dogewhales/DogeWhales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
