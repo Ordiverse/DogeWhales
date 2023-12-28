@@ -5,601 +5,601 @@
             "inscriptionId": "d4a807d3902016998fcc07a1b9eb865f9abb686be4305001c420004ea1fa63dai0",
             "name": "DWHL #1",
             "imageURI": "https://wonky-ord.dogeord.io/content/d4a807d3902016998fcc07a1b9eb865f9abb686be4305001c420004ea1fa63dai0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "d901d00e970575f9ec4c5d0423da61d986dea8c7e3642632e74b85dce2fa9a79i0",
             "name": "DWHL #2",
             "imageURI": "https://wonky-ord.dogeord.io/content/d901d00e970575f9ec4c5d0423da61d986dea8c7e3642632e74b85dce2fa9a79i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "381a33d1a38af342c8d2728eb870665a9088715346e396585fce0ebb04c38f65i0",
             "name": "DWHL #3",
             "imageURI": "https://wonky-ord.dogeord.io/content/381a33d1a38af342c8d2728eb870665a9088715346e396585fce0ebb04c38f65i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "661ab8455a3e933b8323cf2231cc4d7caf999824c34d9f487c656447d085f9c7i0",
             "name": "DWHL #4",
             "imageURI": "https://wonky-ord.dogeord.io/content/661ab8455a3e933b8323cf2231cc4d7caf999824c34d9f487c656447d085f9c7i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "a1de269913f28a3c9a62a205a7b6665004a71735042ed7fe826ce9e21c36e688i0",
             "name": "DWHL #5",
             "imageURI": "https://wonky-ord.dogeord.io/content/a1de269913f28a3c9a62a205a7b6665004a71735042ed7fe826ce9e21c36e688i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "a84bb7f7308e0e4c5069ed77954a7f54a1d39a44465c0f13c031f4095e947413i0",
             "name": "DWHL #6",
             "imageURI": "https://wonky-ord.dogeord.io/content/a84bb7f7308e0e4c5069ed77954a7f54a1d39a44465c0f13c031f4095e947413i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "bb9115e1efa2a7c7c7290a9ab5176a05bf229c72b775aa1a2c6cb790099b23d7i0",
             "name": "DWHL #202",
             "imageURI": "https://wonky-ord.dogeord.io/content/bb9115e1efa2a7c7c7290a9ab5176a05bf229c72b775aa1a2c6cb790099b23d7i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "202d9ec7e07d805e583079aaee85e206e420cf5051f662750ac7a3880f249b69i0",
             "name": "DWHL #8",
             "imageURI": "https://wonky-ord.dogeord.io/content/202d9ec7e07d805e583079aaee85e206e420cf5051f662750ac7a3880f249b69i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "12b02141c8dbb8c16ccd2ca955ae5a038691bc2fe53e50a5dedc381106f929b2i0",
             "name": "DWHL #9",
             "imageURI": "https://wonky-ord.dogeord.io/content/12b02141c8dbb8c16ccd2ca955ae5a038691bc2fe53e50a5dedc381106f929b2i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "4c4e636f4ba29ddb9420cf25ff9d3bf165c298ff8f316dd3153d2e466215ddf9i0",
             "name": "DWHL #10",
             "imageURI": "https://wonky-ord.dogeord.io/content/4c4e636f4ba29ddb9420cf25ff9d3bf165c298ff8f316dd3153d2e466215ddf9i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "21aa356c5f39673f8722818c7eb3a57876c44da53a2ecae691d3adb9ea1ea36ci0",
             "name": "DWHL #11",
             "imageURI": "https://wonky-ord.dogeord.io/content/21aa356c5f39673f8722818c7eb3a57876c44da53a2ecae691d3adb9ea1ea36ci0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "474b50be80fbe6ef544e76d8194009aaf5715791d58d31e2ce1226e7aad11634i0",
             "name": "DWHL #12",
             "imageURI": "https://wonky-ord.dogeord.io/content/474b50be80fbe6ef544e76d8194009aaf5715791d58d31e2ce1226e7aad11634i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "4a99b088f5494952311521f61773d2d026750dc5cfce845557cf5420b0cb36bai0",
             "name": "DWHL #13",
             "imageURI": "https://wonky-ord.dogeord.io/content/4a99b088f5494952311521f61773d2d026750dc5cfce845557cf5420b0cb36bai0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "eef7d2060de1a1ee77403e4a1d1b4ab7ec362b520a4f5c34e1956d7c1c600870i0",
             "name": "DWHL #14",
             "imageURI": "https://wonky-ord.dogeord.io/content/eef7d2060de1a1ee77403e4a1d1b4ab7ec362b520a4f5c34e1956d7c1c600870i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "1330caa0826345446c4a727ba79fc7c13426db9ecc85af7bbfba828e8fffe753i0",
             "name": "DWHL #15",
             "imageURI": "https://wonky-ord.dogeord.io/content/1330caa0826345446c4a727ba79fc7c13426db9ecc85af7bbfba828e8fffe753i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "be49589cdc29059f8a166785e1b805740db60c51b00ce56c36ed9c695725b2eci0",
             "name": "DWHL #16",
             "imageURI": "https://wonky-ord.dogeord.io/content/be49589cdc29059f8a166785e1b805740db60c51b00ce56c36ed9c695725b2eci0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "b6a06782f3ca4b24f0b93d93cdab816cebaae8083f586851235147360d908230i0",
             "name": "DWHL #17",
             "imageURI": "https://wonky-ord.dogeord.io/content/b6a06782f3ca4b24f0b93d93cdab816cebaae8083f586851235147360d908230i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "113b704db9991ffbaceea5a0632bef6b30f21cd77f36fca8bda9e7c16a98cb8di0",
             "name": "DWHL #18",
             "imageURI": "https://wonky-ord.dogeord.io/content/113b704db9991ffbaceea5a0632bef6b30f21cd77f36fca8bda9e7c16a98cb8di0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "0a87bf8a2e380b5f8e2dc9dd8d43e11e9657923a8760a647e6f3dd519d4f58fdi0",
             "name": "DWHL #19",
             "imageURI": "https://wonky-ord.dogeord.io/content/0a87bf8a2e380b5f8e2dc9dd8d43e11e9657923a8760a647e6f3dd519d4f58fdi0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "1d6f5dcfe16dcbcc1f227a3b053055596a767b3f35e2c87ba839dd79f2702180i0",
             "name": "DWHL #20",
             "imageURI": "https://wonky-ord.dogeord.io/content/1d6f5dcfe16dcbcc1f227a3b053055596a767b3f35e2c87ba839dd79f2702180i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "0bbb36964dc1d7c364c15d3eaf64e2855677a6dac6f92ee61eafa511228ab026i0",
             "name": "DWHL #21",
             "imageURI": "https://wonky-ord.dogeord.io/content/0bbb36964dc1d7c364c15d3eaf64e2855677a6dac6f92ee61eafa511228ab026i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "fbe40777961e5fae1d5a9aed82ce5507e3ebb17f8ec3c0eac30484c07d4efbdci0",
             "name": "DWHL #22",
             "imageURI": "https://wonky-ord.dogeord.io/content/fbe40777961e5fae1d5a9aed82ce5507e3ebb17f8ec3c0eac30484c07d4efbdci0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "b90c2d8ec17c08715ac4abd382990e9fc01cfc170c59091a848a8e7992bdc53ai0",
             "name": "DWHL #23",
             "imageURI": "https://wonky-ord.dogeord.io/content/b90c2d8ec17c08715ac4abd382990e9fc01cfc170c59091a848a8e7992bdc53ai0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "97cd8dee0ffc8a7f48f87fc0fa2fb21322e5927f0f6ff9fcd9aaca1408e0797ai0",
             "name": "DWHL #24",
             "imageURI": "https://wonky-ord.dogeord.io/content/97cd8dee0ffc8a7f48f87fc0fa2fb21322e5927f0f6ff9fcd9aaca1408e0797ai0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "ceb1c1aa5282e58d73a9409a528a07fb4396b2564f5045dc7f004b1e72cdc151i0",
             "name": "DWHL #25",
             "imageURI": "https://wonky-ord.dogeord.io/content/ceb1c1aa5282e58d73a9409a528a07fb4396b2564f5045dc7f004b1e72cdc151i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "bc80f84696d50cb487bfc636bf1ebf9d1f6ac04a2cfc14c2c8cdfa468504bafdi0",
             "name": "DWHL #26",
             "imageURI": "https://wonky-ord.dogeord.io/content/bc80f84696d50cb487bfc636bf1ebf9d1f6ac04a2cfc14c2c8cdfa468504bafdi0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "190625ecb4701d7a11ab73504fa9d63582e023715ea9c9a63345c67438b3f87ei0",
             "name": "DWHL #27",
             "imageURI": "https://wonky-ord.dogeord.io/content/190625ecb4701d7a11ab73504fa9d63582e023715ea9c9a63345c67438b3f87ei0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "9c464c9200245c3ebaaf7eb85068075d665fd6d2320599b3904e8f43e217de91i0",
             "name": "DWHL #28",
             "imageURI": "https://wonky-ord.dogeord.io/content/9c464c9200245c3ebaaf7eb85068075d665fd6d2320599b3904e8f43e217de91i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "ec56b56ba85b1e9d684491b73ae42b493e25955885916a47e21d7d5c1aca82cdi0",
             "name": "DWHL #29",
             "imageURI": "https://wonky-ord.dogeord.io/content/ec56b56ba85b1e9d684491b73ae42b493e25955885916a47e21d7d5c1aca82cdi0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "ec56b56ba85b1e9d684491b73ae42b493e25955885916a47e21d7d5c1aca82cdi0",
             "name": "DWHL #30",
             "imageURI": "https://wonky-ord.dogeord.io/content/ec56b56ba85b1e9d684491b73ae42b493e25955885916a47e21d7d5c1aca82cdi0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "fb20f33c52096eb4719ff66e613a4cc4552c149d6d7049c1745da04713d3a880i0",
             "name": "DWHL #31",
             "imageURI": "https://wonky-ord.dogeord.io/content/fb20f33c52096eb4719ff66e613a4cc4552c149d6d7049c1745da04713d3a880i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "9ffef60391fe40b2343d6630a5a528ca6f1fb267841c2faaaf765c2b666ab296i0",
             "name": "DWHL #32",
             "imageURI": "https://wonky-ord.dogeord.io/content/9ffef60391fe40b2343d6630a5a528ca6f1fb267841c2faaaf765c2b666ab296i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "bf9a823a254c0fba5f9b45d94300e607d484a0f5afea9f83a5a3826ffc3b1740i0",
             "name": "DWHL #33",
             "imageURI": "https://wonky-ord.dogeord.io/content/bf9a823a254c0fba5f9b45d94300e607d484a0f5afea9f83a5a3826ffc3b1740i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "9df30361a71c6b2c25b03e0ee52871892818c5327233113f78af47720759e26bi0",
             "name": "DWHL #34",
             "imageURI": "https://wonky-ord.dogeord.io/content/9df30361a71c6b2c25b03e0ee52871892818c5327233113f78af47720759e26bi0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "38db57dca626ab635eebb91f8206b1e3646c7e77a4bda0a67448c8164d92853fi0",
             "name": "DWHL #35",
             "imageURI": "https://wonky-ord.dogeord.io/content/38db57dca626ab635eebb91f8206b1e3646c7e77a4bda0a67448c8164d92853fi0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "391faf22c19c2070a65e1a48911aa0e22625c256b393e327470dd5a6fd8445e5i0",
             "name": "DWHL #36",
             "imageURI": "https://wonky-ord.dogeord.io/content/391faf22c19c2070a65e1a48911aa0e22625c256b393e327470dd5a6fd8445e5i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "1fd2dc72d791a509cfb68a38aa6693dfa8b7c64f1b4f73d446f2ca718fcd0889i0",
             "name": "DWHL #37",
             "imageURI": "https://wonky-ord.dogeord.io/content/1fd2dc72d791a509cfb68a38aa6693dfa8b7c64f1b4f73d446f2ca718fcd0889i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "5c083d7bc1e99b32cedf5c0bcbbfcd2ad9f15eb987e30f458d44a3ae48f4be91i0",
             "name": "DWHL #38",
             "imageURI": "https://wonky-ord.dogeord.io/content/5c083d7bc1e99b32cedf5c0bcbbfcd2ad9f15eb987e30f458d44a3ae48f4be91i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "be9976240a93f1f85f7ccb49f7dcf1b2fec9c57173d7772273c6fc6656056353i0",
             "name": "DWHL #39",
             "imageURI": "https://wonky-ord.dogeord.io/content/be9976240a93f1f85f7ccb49f7dcf1b2fec9c57173d7772273c6fc6656056353i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "63e39c2bfbb8e762887ee4632888baaff283f559ce303d2cdd72809531c24877i0",
             "name": "DWHL #40",
             "imageURI": "https://wonky-ord.dogeord.io/content/63e39c2bfbb8e762887ee4632888baaff283f559ce303d2cdd72809531c24877i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "8d7a7eec29bf004ce5604694d4601948d7a67838f60e81680a38e63b76dc06d3i0",
             "name": "DWHL #41",
             "imageURI": "https://wonky-ord.dogeord.io/content/8d7a7eec29bf004ce5604694d4601948d7a67838f60e81680a38e63b76dc06d3i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "75dfd1caeb7c9886537afe54b63181ee03f83e47d37f4c7e85d1f59a2bb39e02i0",
             "name": "DWHL #42",
             "imageURI": "https://wonky-ord.dogeord.io/content/75dfd1caeb7c9886537afe54b63181ee03f83e47d37f4c7e85d1f59a2bb39e02i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "09d50f0b617191df37f7f1c5d0c4b8d33d7560e621f03ab6a5f79069f7176100i0",
             "name": "DWHL #43",
             "imageURI": "https://wonky-ord.dogeord.io/content/09d50f0b617191df37f7f1c5d0c4b8d33d7560e621f03ab6a5f79069f7176100i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "2204495905d5beeeb5cf37bc7d9ebe4621a09e26c156e508be1de0dff8ee84bei0",
             "name": "DWHL #44",
             "imageURI": "https://wonky-ord.dogeord.io/content/2204495905d5beeeb5cf37bc7d9ebe4621a09e26c156e508be1de0dff8ee84bei0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "0a6ed3d0cd61546c60e4a72fdfcf715f368ce06c882f68e0c605d364ee2ceba9i0",
             "name": "DWHL #45",
             "imageURI": "https://wonky-ord.dogeord.io/content/0a6ed3d0cd61546c60e4a72fdfcf715f368ce06c882f68e0c605d364ee2ceba9i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "62acb6f3286031119a5b6d9563cfa1c1a22aaf829d14bc63bfc134dd9df65156i0",
             "name": "DWHL #46",
             "imageURI": "https://wonky-ord.dogeord.io/content/62acb6f3286031119a5b6d9563cfa1c1a22aaf829d14bc63bfc134dd9df65156i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "f43044d35d9193235db1e533354d425c8e865515333ab7fefbbf2027c2ef6c81i0",
             "name": "DWHL #201",
             "imageURI": "https://wonky-ord.dogeord.io/content/f43044d35d9193235db1e533354d425c8e865515333ab7fefbbf2027c2ef6c81i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "986eb7eb81c73887ee7184835310d620364e87f249fd6711ea55e8295e7445f4i0",
             "name": "DWHL #48",
             "imageURI": "https://wonky-ord.dogeord.io/content/986eb7eb81c73887ee7184835310d620364e87f249fd6711ea55e8295e7445f4i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "b76b9118298b1f520ab2921f26f0507e00a82ac628d08fd1656112458e5337a2i0",
             "name": "DWHL #49",
             "imageURI": "https://wonky-ord.dogeord.io/content/b76b9118298b1f520ab2921f26f0507e00a82ac628d08fd1656112458e5337a2i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "052006b774b945ca2108958b37f4bb102260129c3fa063ec0eff9d9138e169f7i0",
             "name": "DWHL #50",
             "imageURI": "https://wonky-ord.dogeord.io/content/052006b774b945ca2108958b37f4bb102260129c3fa063ec0eff9d9138e169f7i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "27adf34ea4e0575544d17fd5504ad24e5dc1792e0d29ad8124165c4ca2d790e2i0",
             "name": "DWHL #51",
             "imageURI": "https://wonky-ord.dogeord.io/content/27adf34ea4e0575544d17fd5504ad24e5dc1792e0d29ad8124165c4ca2d790e2i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "33c820093066735851b3b504ff8c373d9277419f33069b0ced0894995466835ai0",
             "name": "DWHL #52",
             "imageURI": "https://wonky-ord.dogeord.io/content/33c820093066735851b3b504ff8c373d9277419f33069b0ced0894995466835ai0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "6d423052a2bc85d68b5e150b7e34d8918ae67fda433e81ed6d2b42fdee28c996i0",
             "name": "DWHL #53",
             "imageURI": "https://wonky-ord.dogeord.io/content/6d423052a2bc85d68b5e150b7e34d8918ae67fda433e81ed6d2b42fdee28c996i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "cb200aa37ca2d51ef407a041b4e1fe8657d9c248d25c9cbe63444ae72f477ca8i0",
             "name": "DWHL #54",
             "imageURI": "https://wonky-ord.dogeord.io/content/cb200aa37ca2d51ef407a041b4e1fe8657d9c248d25c9cbe63444ae72f477ca8i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "d6a89fa5ddeec88139db5b8a74ab3a3e45c0288a5c49e8f200e56db1364e71e5i0",
             "name": "DWHL #55",
             "imageURI": "https://wonky-ord.dogeord.io/content/d6a89fa5ddeec88139db5b8a74ab3a3e45c0288a5c49e8f200e56db1364e71e5i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "dc1103413b756f19ba4f05773867f53e6aea231099b997204e768427d7f7def8i0",
             "name": "DWHL #56",
             "imageURI": "https://wonky-ord.dogeord.io/content/dc1103413b756f19ba4f05773867f53e6aea231099b997204e768427d7f7def8i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "67d0256026fc6f9b144bfdcd3ccbcfc550a5bd077d01aa77a268250f0d283583i0",
             "name": "DWHL #57",
             "imageURI": "https://wonky-ord.dogeord.io/content/67d0256026fc6f9b144bfdcd3ccbcfc550a5bd077d01aa77a268250f0d283583i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "c2dc5a38815820db1922939ef9d76fc5aad2da02a11dad5487acb672ff4692a7i0",
             "name": "DWHL #58",
             "imageURI": "https://wonky-ord.dogeord.io/content/c2dc5a38815820db1922939ef9d76fc5aad2da02a11dad5487acb672ff4692a7i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "7f52ffd254c3f07d5d00d4fce5c8db1c1b484d24da8fc519fb29fb851ecb3d3ei0",
             "name": "DWHL #59",
             "imageURI": "https://wonky-ord.dogeord.io/content/7f52ffd254c3f07d5d00d4fce5c8db1c1b484d24da8fc519fb29fb851ecb3d3ei0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "6605788e83900a9f708cfba37e7af5bb0fb8c8d4c61d43f729704c11c0ac5752i0",
             "name": "DWHL #60",
             "imageURI": "https://wonky-ord.dogeord.io/content/6605788e83900a9f708cfba37e7af5bb0fb8c8d4c61d43f729704c11c0ac5752i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "d7ea0d185b7c009fa682610dcf4a9e9738c37312293001cafbf78a0059ca3211i0",
             "name": "DWHL #61",
             "imageURI": "https://wonky-ord.dogeord.io/content/d7ea0d185b7c009fa682610dcf4a9e9738c37312293001cafbf78a0059ca3211i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "6e9af5c444ca2266a1904c1286bcda854b6dd15778101423d8e7d13d634aa1e4i0",
             "name": "DWHL #62",
             "imageURI": "https://wonky-ord.dogeord.io/content/6e9af5c444ca2266a1904c1286bcda854b6dd15778101423d8e7d13d634aa1e4i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "7ad091ab6191afd9a2e2e9853bab53a77bd26301935c6e97e388135cc06cb439i0",
             "name": "DWHL #63",
             "imageURI": "https://wonky-ord.dogeord.io/content/7ad091ab6191afd9a2e2e9853bab53a77bd26301935c6e97e388135cc06cb439i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "0faf4cc6a6cf24a1855c5009daf1704ec6ca4e4eda58df59b03d437eb504187ci0",
             "name": "DWHL #64",
             "imageURI": "https://wonky-ord.dogeord.io/content/0faf4cc6a6cf24a1855c5009daf1704ec6ca4e4eda58df59b03d437eb504187ci0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "881459726a423258314f7cea5d7259cf3fd670fd749fd9b1bb2a7898c2893e02i0",
             "name": "DWHL #65",
             "imageURI": "https://wonky-ord.dogeord.io/content/881459726a423258314f7cea5d7259cf3fd670fd749fd9b1bb2a7898c2893e02i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "893990897c466613368206e1fbff14d1f16eacba6a51450a1e8ed423ca18cc88i0",
             "name": "DWHL #66",
             "imageURI": "https://wonky-ord.dogeord.io/content/893990897c466613368206e1fbff14d1f16eacba6a51450a1e8ed423ca18cc88i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "22bfbb43d09e4598e7a933faa2824aacad82323592038ed6eba64b6680fa5919i0",
             "name": "DWHL #67",
             "imageURI": "https://wonky-ord.dogeord.io/content/22bfbb43d09e4598e7a933faa2824aacad82323592038ed6eba64b6680fa5919i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "213d62f8c0a07c1072b14d1ded3740f674ee2adf384fc75c5960c549082084edi0",
             "name": "DWHL #68",
             "imageURI": "https://wonky-ord.dogeord.io/content/213d62f8c0a07c1072b14d1ded3740f674ee2adf384fc75c5960c549082084edi0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "a43b6793a362090d8dd965be0c1f13c1e3a66f68304ee462be4f91ad23b5b46ei0",
             "name": "DWHL #69",
             "imageURI": "https://wonky-ord.dogeord.io/content/a43b6793a362090d8dd965be0c1f13c1e3a66f68304ee462be4f91ad23b5b46ei0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "8ac055505c262986f824051a2e51f027331e5007b324eb096e892fabceaf7848i0",
             "name": "DWHL #70",
             "imageURI": "https://wonky-ord.dogeord.io/content/8ac055505c262986f824051a2e51f027331e5007b324eb096e892fabceaf7848i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "10a1a4c24304a4430acae2a45cd7a5f46198f799e4d1b9229c07188f6ced0274i0",
             "name": "DWHL #71",
             "imageURI": "https://wonky-ord.dogeord.io/content/10a1a4c24304a4430acae2a45cd7a5f46198f799e4d1b9229c07188f6ced0274i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "479b97c204fcb8b4d951bae5fcf3bf4a2f501d2a75a2488746dd34d3911a802di0",
             "name": "DWHL #72",
             "imageURI": "https://wonky-ord.dogeord.io/content/479b97c204fcb8b4d951bae5fcf3bf4a2f501d2a75a2488746dd34d3911a802di0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "284b94b18ecbfdbf0eb64ea24ca093f3689970f789e11707ae64843df75624b2i0",
             "name": "DWHL #73",
             "imageURI": "https://wonky-ord.dogeord.io/content/284b94b18ecbfdbf0eb64ea24ca093f3689970f789e11707ae64843df75624b2i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "2d09a6fa863a799689c4d3f2a9dec2de1657f9254241665746b5daabd2ac07f5i0",
             "name": "DWHL #74",
             "imageURI": "https://wonky-ord.dogeord.io/content/2d09a6fa863a799689c4d3f2a9dec2de1657f9254241665746b5daabd2ac07f5i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "ecff2664468f46756941d4da8830e2fed50448233f06286bcc181d8d978ec12di0",
             "name": "DWHL #75",
             "imageURI": "https://wonky-ord.dogeord.io/content/ecff2664468f46756941d4da8830e2fed50448233f06286bcc181d8d978ec12di0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "8084435a0d43721fd2823d5e8d8499ebcd9c18f7ea4dbef686d20ebeabfdcd32i0",
             "name": "DWHL #76",
             "imageURI": "https://wonky-ord.dogeord.io/content/8084435a0d43721fd2823d5e8d8499ebcd9c18f7ea4dbef686d20ebeabfdcd32i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "fd89a2e4797548d8fe55e430421d195e007d1f1517459f2ca0c929afca159161i0",
             "name": "DWHL #77",
             "imageURI": "https://wonky-ord.dogeord.io/content/fd89a2e4797548d8fe55e430421d195e007d1f1517459f2ca0c929afca159161i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "366d4e7f776e213109f9cb4d55311b6e0450648eaa6d91f455ce9736c1996045i0",
             "name": "DWHL #78",
             "imageURI": "https://wonky-ord.dogeord.io/content/366d4e7f776e213109f9cb4d55311b6e0450648eaa6d91f455ce9736c1996045i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "9187690af12f199f925007892892dc3caef08ccb24fae4d33634b3d4ab6b0d93i0",
             "name": "DWHL #79",
             "imageURI": "https://wonky-ord.dogeord.io/content/9187690af12f199f925007892892dc3caef08ccb24fae4d33634b3d4ab6b0d93i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "a010b3ea50d93dbf14a4e04d430f9646aed897f7cd4749911190f1aa50722363i0",
             "name": "DWHL #80",
             "imageURI": "https://wonky-ord.dogeord.io/content/a010b3ea50d93dbf14a4e04d430f9646aed897f7cd4749911190f1aa50722363i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "a394a67630cee0fff31f80159cc4fcfffd706f5f403c05420b13d32a3c4f63bei0",
             "name": "DWHL #81",
             "imageURI": "https://wonky-ord.dogeord.io/content/a394a67630cee0fff31f80159cc4fcfffd706f5f403c05420b13d32a3c4f63bei0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "8e0bced4263a260d77563ba24694f636b0736834f2925979132c68d058540bf2i0",
             "name": "DWHL #82",
             "imageURI": "https://wonky-ord.dogeord.io/content/8e0bced4263a260d77563ba24694f636b0736834f2925979132c68d058540bf2i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "a24d85f310b4c11f19c0b4e371439daa2ba6acbb55c115347f9686b9ca3990dei0",
             "name": "DWHL #83",
             "imageURI": "https://wonky-ord.dogeord.io/content/a24d85f310b4c11f19c0b4e371439daa2ba6acbb55c115347f9686b9ca3990dei0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "557d7acbbf5a195ab050b0abae6fd47902dfdd072931adfda03b0b142466a8b2i0",
             "name": "DWHL #84",
             "imageURI": "https://wonky-ord.dogeord.io/content/557d7acbbf5a195ab050b0abae6fd47902dfdd072931adfda03b0b142466a8b2i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "75b8e49a9b0bc8eea5d2c44339c40cbb9681e54b2d69bde15cab09ca369dd5c8i0",
             "name": "DWHL #85",
             "imageURI": "https://wonky-ord.dogeord.io/content/75b8e49a9b0bc8eea5d2c44339c40cbb9681e54b2d69bde15cab09ca369dd5c8i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "aa160e94856a0ff59fc646b4fc834d2283bfa6fc2145412cd2ed018fc7905a85i0",
             "name": "DWHL #86",
             "imageURI": "https://wonky-ord.dogeord.io/content/aa160e94856a0ff59fc646b4fc834d2283bfa6fc2145412cd2ed018fc7905a85i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "9b0c74735f390b914614c956215c3d627a7d81b708a0b1f9d50f7e43cc07f8a2i0",
             "name": "DWHL #87",
             "imageURI": "https://wonky-ord.dogeord.io/content/9b0c74735f390b914614c956215c3d627a7d81b708a0b1f9d50f7e43cc07f8a2i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "63f5657fc2e4e8dc498440178fdb368f958d2181833695a0723eef4ec19f1c71i0",
             "name": "DWHL #88",
             "imageURI": "https://wonky-ord.dogeord.io/content/63f5657fc2e4e8dc498440178fdb368f958d2181833695a0723eef4ec19f1c71i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "a9e09d70288fa0ba872903779a37bababb41754c45625ee28285b5d02d98ee60i0",
             "name": "DWHL #89",
             "imageURI": "https://wonky-ord.dogeord.io/content/a9e09d70288fa0ba872903779a37bababb41754c45625ee28285b5d02d98ee60i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "300ece84b59bfb96088244ca02db18e5c6af075171052bfe602579c0426937d9i0",
             "name": "DWHL #90",
             "imageURI": "https://wonky-ord.dogeord.io/content/300ece84b59bfb96088244ca02db18e5c6af075171052bfe602579c0426937d9i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "ace4bf7947213362f3abc28c00d5956abac8ecd7c44a79c0feb080332e54ed0ei0",
             "name": "DWHL #91",
             "imageURI": "https://wonky-ord.dogeord.io/content/ace4bf7947213362f3abc28c00d5956abac8ecd7c44a79c0feb080332e54ed0ei0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "ff5888009e33a724c61ad762301a19736285d47109eb00a1335733f226714c2di0",
             "name": "DWHL #92",
             "imageURI": "https://wonky-ord.dogeord.io/content/ff5888009e33a724c61ad762301a19736285d47109eb00a1335733f226714c2di0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "59edc1d5ebb602351360948eb0828cc2002e7507e3d7fde47d455d2d26821997i0",
             "name": "DWHL #93",
             "imageURI": "https://wonky-ord.dogeord.io/content/59edc1d5ebb602351360948eb0828cc2002e7507e3d7fde47d455d2d26821997i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "ff7ad1f2157c4b5ad89d60bc46376c4156d682e62783b31f1eb1a09f4dcbd2c7i0",
             "name": "DWHL #94",
             "imageURI": "https://wonky-ord.dogeord.io/content/ff7ad1f2157c4b5ad89d60bc46376c4156d682e62783b31f1eb1a09f4dcbd2c7i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "32a2450fe90e099ad669677dfb8cc44e40f33e0a47a0804b453c7a7fac77838ei0",
             "name": "DWHL #95",
             "imageURI": "https://wonky-ord.dogeord.io/content/32a2450fe90e099ad669677dfb8cc44e40f33e0a47a0804b453c7a7fac77838ei0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "9e3a76bf7831fedd12d9c8970f20f5a6ac75493ba1ac625704adcaee3f9d1fd0i0",
             "name": "DWHL #96",
             "imageURI": "https://wonky-ord.dogeord.io/content/9e3a76bf7831fedd12d9c8970f20f5a6ac75493ba1ac625704adcaee3f9d1fd0i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "41cb0062b81867f90f552bd01ee785a9dafe204aa8159953f6be22810bc58f1ai0",
             "name": "DWHL #97",
             "imageURI": "https://wonky-ord.dogeord.io/content/41cb0062b81867f90f552bd01ee785a9dafe204aa8159953f6be22810bc58f1ai0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "40c89810c2d5453500ac670d3cec38204afe55b18483825b4c89f33216f8d5d0i0",
             "name": "DWHL #98",
             "imageURI": "https://wonky-ord.dogeord.io/content/40c89810c2d5453500ac670d3cec38204afe55b18483825b4c89f33216f8d5d0i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "b281e54de209007c41f87e427121ed91e393f1ab802303c1424d33a8ab9872c5i0",
             "name": "DWHL #203",
             "imageURI": "https://wonky-ord.dogeord.io/content/b281e54de209007c41f87e427121ed91e393f1ab802303c1424d33a8ab9872c5i0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
         {
             "inscriptionId": "4c83bf6633981bad275dbef3666d2e2100c4563bdc7c172341e3de7e2d138bfei0",
             "name": "DWHL #100",
             "imageURI": "https://wonky-ord.dogeord.io/content/4c83bf6633981bad275dbef3666d2e2100c4563bdc7c172341e3de7e2d138bfei0",
-            "collectionSymbol": "Doge Whales"
+            "collectionSymbol": "DogeWhales"
         },
 		{
             "inscriptionId": "17d9af6b8690fc82c02e961eed09c7f8018f787882fb76b21d7417e374cc2f90i0",
